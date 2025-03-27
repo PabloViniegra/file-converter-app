@@ -1,4 +1,4 @@
-# Markdown to PDF Converter
+# File Converter
 
 This project is a tool for converting files from one format to another format (not all one are implemented). It is designed to be simple to use and customizable for various use cases.
 
@@ -15,7 +15,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/md-to-pdf-converter.git
+   git clone https://github.com/PabloViniegra/file-converter-app.git
    cd md-to-pdf-converter
    ```
 
